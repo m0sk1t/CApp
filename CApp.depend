@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1359250221 source:/home/m0sk1t/Документы/Work/SDL/CApp/CApp_OnCleanup.cpp
+	"CApp.h"
+
+1359250745 /home/m0sk1t/Документы/Work/SDL/CApp/CApp.h
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	"CSurface.h"
+
+1359250931 source:/home/m0sk1t/Документы/Work/SDL/CApp/CApp_OnEvent.cpp
+	"CApp.h"
+
+1359250737 source:/home/m0sk1t/Документы/Work/SDL/CApp/CApp_OnInit.cpp
+	"CApp.h"
+
+1358282246 source:/home/m0sk1t/Документы/Work/SDL/CApp/CApp_OnLoop.cpp
+	"CApp.h"
+
+1359250745 source:/home/m0sk1t/Документы/Work/SDL/CApp/CApp_OnRender.cpp
+	"CApp.h"
+
+1359250745 source:/home/m0sk1t/Документы/Work/SDL/CApp/main.cpp
+	"CApp.h"
+
+1359250831 /home/m0sk1t/Документы/Work/SDL/CApp/CSurface.h
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+
+1359250697 source:/home/m0sk1t/Документы/Work/SDL/CApp/CSurface.cpp
+	"CSurface.h"
+
